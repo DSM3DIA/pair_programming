@@ -5,11 +5,6 @@ import "./styles.css";
 
 import colors from "./colors.json";
 
-/**
- * React - Inline Styles
- * https://react-cn.github.io/react/tips/inline-styles.html
- */
-
 function App() {
   return (
     <div className="App">
