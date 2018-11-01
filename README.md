@@ -1,11 +1,11 @@
 # Instructions
 
+colors.json has been imported into the index.js file.
 Loop through the "colors" array and return a button for each color.
 
-1. Import colors from colors.json
-2. Return a button for each color
-3. Set the button's background color to color.value
-4. Set the button's value to color.color
+1. [] Return a button for each color
+2. [] Set the button's background color to color.value
+3. [] Set the button's text to color.name
 
-## Resources
-* Inline styles in React: https://react-cn.github.io/react/tips/inline-styles.html 
+## Additional Info
+You can use css stylesheets or inline styles

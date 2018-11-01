@@ -1,30 +1,30 @@
 [
   {
-		"color": "red",
+		"name": "red",
 		"value": "#f00"
   },
   {
-		"color": "green",
+		"name": "green",
 		"value": "#0f0"
   },
   {
-		"color": "blue",
+		"name": "blue",
 		"value": "#00f"
   },
   {
-		"color": "cyan",
+		"name": "cyan",
 		"value": "#0ff"
   },
   {
-		"color": "magenta",
+		"name": "magenta",
 		"value": "#f0f"
   },
   {
-		"color": "yellow",
+		"name": "yellow",
 		"value": "#ff0"
   },
   {
-		"color": "black",
+		"name": "black",
 		"value": "#000"
   }
 ]
